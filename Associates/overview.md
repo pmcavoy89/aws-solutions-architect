@@ -2,15 +2,36 @@
 ## Solutions Architect - Associates
 
 ### Services Overview
+#### High Level Services
+* AWS Global Infrastructure
+    * Know the differences between the region and availability zone
+    * **Availability Zone** - Data center (may be several coupled together).
+    * **Region** - Two or more **Availability Zones**.
+    * **Edge Locations** - Endpoints for AWS used for caching content (usually CloudFront)
+        * **CloudFront** - Is Amazon's Content Delivery Network (CDN).
+* Need to know;
+    * Analytics
+    * _**Computer**_
+    * _**Databases**_
+    * Desktop & App Streaming
+    * Machine Learning
+    * Management & Governance
+    * Migration & Transfer
+    * _**Network & Content Delivery**_
+    * _**Security, Identity & Compliance**_ 
+    * _**Storage**_
+
+    > **Note**: Bold and italic list items from above are the main ones to study.
+
 #### Compute
 *  Elastic Cloud Compute (EC2)
   * Virtual Machine
 * Elastic Container Service
   * Management of multiple EC2 instances (like Dockers)
 * Elastic Beanstalk
-  * Does autoscaling and environment setup for developer (like Heroku)
+  * Does autoscaling and environment setup for developer
 * Lamdba
-  * Server-less -- just compute
+  * Server-less -- just compute power, good for scripting languages and doing something quickly.
 
 #### Storage
 * Simple Storage Service (S3)
