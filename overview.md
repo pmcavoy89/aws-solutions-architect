@@ -21,7 +21,7 @@ The overview below covers the need to know in the High Level Services section be
     * Migration & Transfer
     * _**Network & Content Delivery**_
     * _**Security, Identity & Compliance**_ 
-        * Identity Access Management
+        * [Identity Access Management](./identity-access-management/README.md)
     * _**Storage**_
 
     > **Note**: Bold and italic list items from above are the main ones to study.
