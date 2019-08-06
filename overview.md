@@ -4,7 +4,6 @@
 ### Services Overview
 #### High Level Services
 * AWS Global Infrastructure
-    * Know the differences between the region and availability zone
     * **Availability Zone** - Data center (may be several coupled together).
     * **Region** - Two or more **Availability Zones**.
     * **Edge Locations** - Endpoints for AWS used for caching content (usually CloudFront)
@@ -25,7 +24,7 @@
 
 #### Compute
 *  Elastic Cloud Compute (EC2)
-  * Virtual Machine
+  * [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine)
 * Elastic Container Service
   * Management of multiple EC2 instances (like Dockers)
 * Elastic Beanstalk
@@ -48,10 +47,10 @@
   * Virtual machines that replicate information back to S3
 
 #### Databases
-* Relation Database Service
+* [Relation Database](https://en.wikipedia.org/wiki/Relational_database) Service
   * SQL database
 * DynamoDB
-  * NoSQL database
+  * [NoSQL database](https://en.wikipedia.org/wiki/NoSQL)
 * ElastiCache
   * Caches most common queries
 * Red Shift
