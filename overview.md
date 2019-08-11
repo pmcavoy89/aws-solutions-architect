@@ -2,7 +2,7 @@
 ## Solutions Architect - Associates
 
 ### Introduction
-The overview below covers the need to know in the High Level Services section below. The other sections, such as Compute, Databses and more, will be updated / covered in later notes as I progress with my studying.
+The overview below covers the need to know in the High Level Services section below. The other sections, such as Compute, Databases and more, will be updated / covered in later notes as I progress with my studying.
 
 ### Services Overview
 #### High Level Services
