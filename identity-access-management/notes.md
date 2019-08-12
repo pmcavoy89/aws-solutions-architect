@@ -1,8 +1,8 @@
 # Identity, Access, and Access Management (IAM) Notes
 
 * IAM does not reside within a single region, the users, groups, and role can be applied to all regions.
-* **Root Account** is the account created when first setup the AWS account and has complete administrator access.
-    * Always turn on multi-factor authentication (MFA) for the root account (always good practice for the other users on the AWS Account as well).
+* **Root Account** - is the account created when first setup the AWS account and has complete administrator access.
+    * Always turn on multi-factor authentication (MFA) for the *root account* (always good practice for the other users on the AWS Account as well).
 * No new users have *any* permissions when created.
     * Are assigned Access Key ID & Secret Access keys when first created.
     * Types of access for users;
@@ -12,4 +12,4 @@
             * Used via the *Access Key ID* and *Secret Access Key*.
             * Cannot be used to log into the console.
             * May view only once, otherwise you will have to regenerate them.
-* Ensure you customization smart policies are applied to rotation, characters and length of passwords.
+* Ensure you customization smart policies applied to a rotation, types of characters and the length of passwords.
