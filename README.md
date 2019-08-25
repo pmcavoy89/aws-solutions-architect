@@ -6,4 +6,4 @@ Please feel free to fork my repository to keep, make a pull request to fix inacc
 
 Please note the license is MIT.
 
-Read the [overview](/overview.md) next.
+> *Next* read the [overview](/overview.md) next.
